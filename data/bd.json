@@ -1,0 +1,17 @@
+{
+    "updated": "06-06-2020 02:34 PM",
+    "country": "Bangladesh",
+    "flag": "https://disease.sh/assets/img/flags/bd.png",
+    "cases": 63026,
+    "todayCases": 2635,
+    "deaths": 846,
+    "todayDeaths": 35,
+    "recovered": 13325,
+    "todayRecovered": 521,
+    "active": 46776,
+    "casesPerOneMillion": 367,
+    "deathsPerOneMillion": 5,
+    "tests": 384851,
+    "todayTests": 12486,
+    "testsPerOneMillion": 2263
+  }
